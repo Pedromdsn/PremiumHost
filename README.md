@@ -1,4 +1,4 @@
-# Hyperium site
+# PremiumHost site
 
 ## A portfolio site, made using the latest technologies.
 
